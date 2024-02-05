@@ -1,3 +1,3 @@
 SQL NORTHWIND zapytania 
 
-Zapytania SQL do bazy danych NORTHWIND
+Moje zapytania SQL do bazy danych NORTHWIND
