@@ -1,0 +1,1 @@
+SELECT OrderID, CustomerID, OrderDate FROM Orders;

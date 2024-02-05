@@ -1,0 +1,1 @@
+SELECT title 'Stanowiska', COUNT(*) AS 'Iloœæ Pracowników' FROM Employees GROUP BY Title
